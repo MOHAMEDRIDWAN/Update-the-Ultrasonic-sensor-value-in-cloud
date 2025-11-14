@@ -209,7 +209,5 @@ long microsecondsToCentimeters(long microseconds)
 
 
 # RESULT:
-We Successfully uploaded the Ultrasonic sensor value in the Things mate using Arduino controller.
-
 Thus the Ultrasonic sensor value is uploaded in the Things mate using Arduino controller.
 
