@@ -202,8 +202,10 @@ long microsecondsToCentimeters(long microseconds)
 # OUTPUT:
 ## DASHBOARD:
 <img width="1919" height="1005" alt="Screenshot 2025-11-14 143241" src="https://github.com/user-attachments/assets/f2135a5d-00f6-4ec7-8a49-49577b55893e" />
+
 ## RECENT EVENTS:
 <img width="1896" height="1055" alt="Screenshot 2025-11-14 143133" src="https://github.com/user-attachments/assets/5a5e484a-0836-4eba-968a-d396232ab6a5" />
+
 ## SERIAL MONITOR:
 <img width="1828" height="963" alt="Screenshot 2025-11-14 143015" src="https://github.com/user-attachments/assets/50cd3796-2a19-4fac-bbde-f8e22789ad68" />
 
